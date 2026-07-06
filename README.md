@@ -6,7 +6,7 @@ This software is a basic "Hello World" application written in JavaScript. When e
 
 The purpose of creating this software was to verify that my development environment was correctly configured and to practice the complete software development workflow, including writing code, using Git, publishing to GitHub, and documenting the project.
 
-[Software Demo Video](https://www.loom.com/share/37d26a6dd99b4898ae020635f928161b)
+[Software Demo Video](https://www.loom.com/share/0deff4a6442d432f926086b68096c355)
 
 # Development Environment
 
